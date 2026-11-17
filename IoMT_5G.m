@@ -1,4 +1,3 @@
-function IoMT5G_final(quick)
 % Simulation for IoMT 5G Secure Handover
 
 if nargin < 1, quick = false; end
